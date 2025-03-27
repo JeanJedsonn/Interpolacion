@@ -1,4 +1,4 @@
 * Alumno: Jeanmarco Alarcon
 * Curso: Calculo Computacional
 * Fecha: 26-03-2025
-* Descripción: [Ecuaciones No Lineales, parte 1 a 6]
+* Descripción: [Interpolacion, partes 1,2 y 4]
